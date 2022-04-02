@@ -7,7 +7,7 @@ headers = {
     "ODYzMTg3NTk2NDY5NjAwMjg3.Yj9Jtg.xJ3RNfI2nVz32Zx_EnVkteNAqiE"
 }
 keep_alive()
-file = open("ASIDUCASIDNAIUSYDHUIAKSDHIASUD", "r")
+file = open("text.txt", "r")
 lines = file.readlines()
 
 while True:
